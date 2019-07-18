@@ -10,4 +10,4 @@ pip install requests
 pip install beautifulsoup4
 
 # Bot Setup
-You must visit https://discordapp.com/developers/applications/ to create the initial bot and use the generated token in the program.
+You must visit https://discordapp.com/developers/applications/ to create the initial bot and use the generated token in the python script.
