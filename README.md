@@ -2,8 +2,11 @@
 A simple bot using python and Discord API to generate stock pricing utilizing web scraping with Yahoo Finance.
 
 # Requirements
-\npip install discord.py==0.16.12
+
+pip install discord.py==0.16.12
+
 pip install requests
+
 pip install beautifulsoup4
 
 # Bot Setup
